@@ -1,0 +1,693 @@
+{
+  "item-1": {
+    "src": "assets/menu/item-1.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Chuck",
+    "source_url": "https://www.familyfriendlyfarms.com/blogs/recipes/chuck-steak-marinade",
+    "credit": "familyfriendlyfarms.com",
+    "original_url": "https://www.familyfriendlyfarms.com/cdn/shop/articles/chuck-eye_1024x1024.jpg?v=1692237336"
+  },
+  "item-2": {
+    "src": "assets/wings.webp",
+    "kind": "food",
+    "alt": "Illustrative Chicken Wings photograph"
+  },
+  "item-3": {
+    "src": "assets/menu/item-3.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Goat Skewers",
+    "source_url": "https://www.dbenational.org/recipes/goat-brochettes",
+    "credit": "dbenational.org",
+    "original_url": "https://images.squarespace-cdn.com/content/v1/5dcdc6859012af6fcd2b7ab3/1642729443501-YIRRD0TPID08DHZZYSNO/shashlik-1318864.jpg?format=1500w"
+  },
+  "item-4": {
+    "src": "assets/fish.webp",
+    "kind": "food",
+    "alt": "Illustrative Fish photograph"
+  },
+  "item-5": {
+    "src": "assets/menu/item-5.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Boerewors",
+    "source_url": "https://wonderpursuit.store/cdn/shop/files/Boerewors_2317eb40-2867-45bd-9100-b0b25998eaf5.jpg?v=1773416945&width=1445",
+    "credit": "wonderpursuit.store",
+    "original_url": "https://wonderpursuit.store/cdn/shop/files/Boerewors_2317eb40-2867-45bd-9100-b0b25998eaf5.jpg?v=1773416945&width=1445"
+  },
+  "item-6": {
+    "src": "assets/grill-platter.webp",
+    "kind": "food",
+    "alt": "Illustrative Spillway Platter photograph"
+  },
+  "item-7": {
+    "src": "assets/grill-platter.webp",
+    "kind": "food",
+    "alt": "Illustrative Mega Spillway Platter photograph"
+  },
+  "item-8": {
+    "src": "assets/grill-platter.webp",
+    "kind": "food",
+    "alt": "Illustrative Supreme Spillway Platter photograph"
+  },
+  "item-9": {
+    "src": "assets/menu/item-9.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Hungarian Sausage",
+    "source_url": "https://www.thefooddictator.com/hirshon-hungarian-sausage-gyulai-kolbasz/",
+    "credit": "thefooddictator.com",
+    "original_url": "https://www.thefooddictator.com/wp-content/uploads/2018/03/hungarian-sausages.jpeg"
+  },
+  "item-10": {
+    "src": "assets/menu/item-10.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Eggs",
+    "source_url": "https://www.lmcipolletti.com/ciencia-y-vida/ni-fritos-ni-revueltos-como-cocinar-los-huevos-aprovechar-sus-nutrientes-n1192426",
+    "credit": "lmcipolletti.com",
+    "original_url": "https://media.lmcipolletti.com/p/e58805da0454270891fc416cd5677738/adjuntos/195/imagenes/007/759/0007759440/huevo-fritojpg.jpg"
+  },
+  "item-11": {
+    "src": "assets/menu/item-11.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Vimbombo with Beans",
+    "source_url": "https://aaronetto.blogspot.com/2011_05_01_archive.html",
+    "credit": "aaronetto.blogspot.com",
+    "original_url": "https://1.bp.blogspot.com/-b59eVwCyKCY/TcslxqGF6CI/AAAAAAAAI2U/2d-pZ1k9TY8/s1600/Trotters.jpg"
+  },
+  "item-12": {
+    "src": "assets/menu/item-12.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Goat Soup",
+    "source_url": "https://food.bolt.eu/en/137-accra/p/144109-jemils-kitchen/",
+    "credit": "food.bolt.eu",
+    "original_url": "https://images.bolt.eu/store/2026/2026-01-13/4f199d64-a914-4f70-8269-77abd39e2352.jpeg"
+  },
+  "item-13": {
+    "src": "assets/menu/item-13.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Nshima",
+    "source_url": "https://theafrikanstore.com/blogs/recipes/zambian-maize-meal-nshima",
+    "credit": "theafrikanstore.com",
+    "original_url": "https://cdn.shopify.com/s/files/1/0745/8095/1353/files/Nshima-www.blackfoodie.co_480x480.webp?v=1696509545"
+  },
+  "item-14": {
+    "src": "assets/menu/item-14.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Chips",
+    "source_url": "https://food.bolt.eu/en/250-klaipeda/p/183770-grillox-the-chillox-liepojos-str-12/",
+    "credit": "food.bolt.eu",
+    "original_url": "https://images.bolt.eu/store/2025/2025-12-31/5298c6e3-0491-4bfc-9e41-7602b3e72829.png"
+  },
+  "item-15": {
+    "src": "assets/menu/item-15.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Vegetable of the Day",
+    "source_url": "https://www.oriesfarmfresh.com/blog/sauteed-garlicky-greens",
+    "credit": "oriesfarmfresh.com",
+    "original_url": "https://i.imgur.com/TcFvYdn.png"
+  },
+  "item-16": {
+    "src": "assets/menu/item-16.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Coleslaw",
+    "source_url": "https://itsonly.recipes/view/traditional-creamy-coleslaw",
+    "credit": "itsonly.recipes",
+    "original_url": "https://itsonly.recipes/images/recipeimages/traditional-creamy-coleslaw.webp"
+  },
+  "item-17": {
+    "src": "assets/menu/item-17.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Beans",
+    "source_url": "https://www.la.lv/sautetas-pupinas-tomatu-merce",
+    "credit": "la.lv",
+    "original_url": "https://pic.la.lv/2014/08/pupinas_tomatu_merce.jpg"
+  },
+  "item-18": {
+    "src": "assets/menu/item-14.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Plain Chips",
+    "source_url": "https://food.bolt.eu/en/250-klaipeda/p/183770-grillox-the-chillox-liepojos-str-12/",
+    "credit": "food.bolt.eu",
+    "original_url": "https://images.bolt.eu/store/2025/2025-12-31/5298c6e3-0491-4bfc-9e41-7602b3e72829.png"
+  },
+  "item-19": {
+    "src": "assets/menu/item-13.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Nshima",
+    "source_url": "https://theafrikanstore.com/blogs/recipes/zambian-maize-meal-nshima",
+    "credit": "theafrikanstore.com",
+    "original_url": "https://cdn.shopify.com/s/files/1/0745/8095/1353/files/Nshima-www.blackfoodie.co_480x480.webp?v=1696509545"
+  },
+  "item-20": {
+    "src": "assets/menu/item-9.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Sausage",
+    "source_url": "https://www.thefooddictator.com/hirshon-hungarian-sausage-gyulai-kolbasz/",
+    "credit": "thefooddictator.com",
+    "original_url": "https://www.thefooddictator.com/wp-content/uploads/2018/03/hungarian-sausages.jpeg"
+  },
+  "item-21": {
+    "src": "assets/menu/item-16.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Coleslaw",
+    "source_url": "https://itsonly.recipes/view/traditional-creamy-coleslaw",
+    "credit": "itsonly.recipes",
+    "original_url": "https://itsonly.recipes/images/recipeimages/traditional-creamy-coleslaw.webp"
+  },
+  "item-22": {
+    "src": "assets/menu/item-5.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Boerewors",
+    "source_url": "https://wonderpursuit.store/cdn/shop/files/Boerewors_2317eb40-2867-45bd-9100-b0b25998eaf5.jpg?v=1773416945&width=1445",
+    "credit": "wonderpursuit.store",
+    "original_url": "https://wonderpursuit.store/cdn/shop/files/Boerewors_2317eb40-2867-45bd-9100-b0b25998eaf5.jpg?v=1773416945&width=1445"
+  },
+  "item-23": {
+    "src": "assets/menu/item-23.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Gordon’s Dry Gin",
+    "source_url": "https://potravinydomov.itesco.sk/shop/en-SK/products/206546603",
+    "credit": "potravinydomov.itesco.sk",
+    "original_url": "https://digitalcontent.api.tesco.com/v2/media/ghs/af96865d-fd4e-4e36-a8ea-be7cd09f60e5/85d8b63f-85d8-41d2-9526-c15fd0f8187a_1445213328.jpeg?h=960&w=960"
+  },
+  "item-24": {
+    "src": "assets/menu/item-24.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Bombay",
+    "source_url": "https://tsithaca.com/cdn/shop/files/images.jpg?v=1727450601&width=1445",
+    "credit": "tsithaca.com",
+    "original_url": "https://tsithaca.com/cdn/shop/files/images.jpg?v=1727450601&width=1445"
+  },
+  "item-25": {
+    "src": "assets/menu/item-25.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Jägermeister",
+    "source_url": "https://www.cibimarket.co.uk/products/jagermeister-original-herbal-liqueur-70-cl-6-in-a-box?srsltid=AfmBOorwZVzuufNdeTgz6f5nbpE3xxIPb5MigwOPoyW8KtRY4kvPNazU",
+    "credit": "cibimarket.co.uk",
+    "original_url": "https://www.cibimarket.co.uk/cdn/shop/products/0000002273-removebg-preview.png?v=1663859106&width=1214"
+  },
+  "item-26": {
+    "src": "assets/menu/item-26.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Jameson",
+    "source_url": "https://www.mydrinksclub.com/products/jameson-triple-distilled-irish-whiskey",
+    "credit": "mydrinksclub.com",
+    "original_url": "https://www.mydrinksclub.com/cdn/shop/files/JMSN.png?v=1682553513&width=1080"
+  },
+  "item-27": {
+    "src": "assets/menu/item-27.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Olmeca Tequila",
+    "source_url": "https://www.thewinebox.co.uk/products/olmeca-silver-tequila",
+    "credit": "thewinebox.co.uk",
+    "original_url": "https://www.thewinebox.co.uk/cdn/shop/products/PR06OSTB-1.jpg?v=1665010421&width=1024"
+  },
+  "item-28": {
+    "src": "assets/menu/item-28.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Jack Daniel’s",
+    "source_url": "https://secretbottle.com.au/cdn/shop/products/jack-daniels-old-no7-tennessee-whiskey-700ml-446295.jpg?v=1651474583",
+    "credit": "secretbottle.com.au",
+    "original_url": "https://secretbottle.com.au/cdn/shop/products/jack-daniels-old-no7-tennessee-whiskey-700ml-446295.jpg?v=1651474583"
+  },
+  "item-29": {
+    "src": "assets/menu/item-29.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Bacardi",
+    "source_url": "https://www.beicevrei.ro/bacardi-rom-carta-blanca-0-7l-alc-37-5-7511",
+    "credit": "beicevrei.ro",
+    "original_url": "https://cdn.beicevrei.ro/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/a/carta_blanca_0.7l_3.jpg"
+  },
+  "item-30": {
+    "src": "assets/menu/item-30.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Absolut Vodka",
+    "source_url": "https://www.delicando.com/fr/11931/absolut-vodka-40-vol-1l",
+    "credit": "delicando.com",
+    "original_url": "https://assets.delicando.com/imagecache/item-fullscreen/1f24325f0594ceccc818bd0214ece761782bce564097e39c5291dc2b468dcc43.jpg"
+  },
+  "item-31": {
+    "src": "assets/menu/item-31.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Jameson Stout",
+    "source_url": "https://www.anbl.com/jameson-caskmates-irish-whiskey-stout-edition-750ml-29462",
+    "credit": "anbl.com",
+    "original_url": "https://anbl-2.azureedge.net/img/product/29462-B.jpg?fv=6A6B1A29B9D082A29041292B4F474053"
+  },
+  "item-32": {
+    "src": "assets/menu/item-32.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Johnnie Walker Black Label",
+    "source_url": "https://www.superliquor.co.nz/johnnie-walker-black-label-700ml",
+    "credit": "superliquor.co.nz",
+    "original_url": "https://assets.superliquor.co.nz/thumbs/0016241.png"
+  },
+  "item-33": {
+    "src": "assets/menu/item-33.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Jameson Black Barrel",
+    "source_url": "https://mercatoronline.si/izdelek/17574776/",
+    "credit": "mercatoronline.si",
+    "original_url": "https://mercatoronline.si/img/products/5380/00094163.jpg"
+  },
+  "item-34": {
+    "src": "assets/menu/item-34.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Hennessy",
+    "source_url": "https://www.hennessy.com/index.php/en-int/collection/hennessy-very-special",
+    "credit": "Hennessy",
+    "original_url": "https://www.hennessy.com/sites/hennessy/files/2024-08/hny_vs_packshot_2000x2000.jpg"
+  },
+  "item-35": {
+    "src": "assets/menu/item-35.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Glenlivet 15 Years",
+    "source_url": "https://winesonline.com.sg/products/glenlivet-15yo-single-malt-scotch-whisky",
+    "credit": "winesonline.com.sg",
+    "original_url": "https://winesonline.com.sg/cdn/shop/products/Glenlivet-15-Year-Old-Single-Malt-Scotch-Whisky_2000x.jpg?v=1548057220"
+  },
+  "item-36": {
+    "src": "assets/menu/item-36.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Johnnie Walker Blue Label",
+    "source_url": "https://www.adegaportofino.com.br/destilados/whisky/whisky-johnnie-walker-blue-label-21-anos",
+    "credit": "adegaportofino.com.br",
+    "original_url": "https://spiritcdn.spiritshop.com.br/adegaportofino/image/cache/data/up_system/product-51201/ebluelabel-1500x1500.jpg"
+  },
+  "item-37": {
+    "src": "assets/menu/item-37.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Glenlivet 12 Years",
+    "source_url": "https://winesonline.com.sg/products/glenlivet12yearoldsinglemaltscotchwhisky",
+    "credit": "winesonline.com.sg",
+    "original_url": "https://winesonline.com.sg/cdn/shop/products/Glenlivet-12-Year-Old-Single-Malt-Scotch-Whisky_1200x.jpg?v=1548057215"
+  },
+  "item-38": {
+    "src": "assets/menu/item-38.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Glenlivet 18 Years",
+    "source_url": "https://city9.tw/products/%E6%A0%BC%E8%98%AD%E5%88%A9%E5%A8%81-18%E5%B9%B4-%E5%96%AE%E4%B8%80%E7%B4%94%E9%BA%A5%E5%A8%81%E5%A3%AB%E5%BF%8C",
+    "credit": "city9.tw",
+    "original_url": "https://city9.tw/cdn/shop/files/Glenlivet_18.png?v=1688381226"
+  },
+  "item-39": {
+    "src": "assets/menu/item-39.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Glenlivet Reserve",
+    "source_url": "https://www.crushwineshop.ro/whisky-glenlivet-founders-reserve-single-malt-scotch-p1657",
+    "credit": "crushwineshop.ro",
+    "original_url": "https://www.crushwineshop.ro/uploads/product/1657/whiskey-glenlivet-founders-reserve-scotch-single-malt.png"
+  },
+  "item-40": {
+    "src": "assets/menu/item-40.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Glenfiddich 15 Years",
+    "source_url": "https://www.liquoronbroadway.com/cdn/shop/products/glenfiddich-single-malt-15-year-old-8487993.png?v=1759879373&width=1024",
+    "credit": "liquoronbroadway.com",
+    "original_url": "https://www.liquoronbroadway.com/cdn/shop/products/glenfiddich-single-malt-15-year-old-8487993.png?v=1759879373&width=1024"
+  },
+  "item-41": {
+    "src": "assets/menu/item-41.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Hendrick’s Gin",
+    "source_url": "https://www.winedispensary.com/cdn/shop/files/HendricksGin.png?v=1705346627",
+    "credit": "winedispensary.com",
+    "original_url": "https://www.winedispensary.com/cdn/shop/files/HendricksGin.png?v=1705346627"
+  },
+  "item-42": {
+    "src": "assets/menu/item-42.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Monkey Shoulder",
+    "source_url": "https://unwindbottleshop.com/cdn/shop/files/MONKEY_SHOULDER.jpg?v=1708241651&width=1445",
+    "credit": "unwindbottleshop.com",
+    "original_url": "https://unwindbottleshop.com/cdn/shop/files/MONKEY_SHOULDER.jpg?v=1708241651&width=1445"
+  },
+  "item-43": {
+    "src": "assets/menu/item-43.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Johnnie Walker Double Black",
+    "source_url": "https://mybevstore.com/products/johnnie-walker-double-black",
+    "credit": "mybevstore.com",
+    "original_url": "https://mybevstore.com/cdn/shop/files/MyBev-Product-Images-Johnnie-Walker-Double-Black.png?v=1698075109&width=2400"
+  },
+  "item-44": {
+    "src": "assets/menu/item-44.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Smirnoff 1818",
+    "source_url": "https://www.woolworths.co.za/prod/_/A-6001398119545",
+    "credit": "woolworths.co.za",
+    "original_url": "https://www.woolworths.co.za/images/elasticera/products/alternate/2024-08-05/6001398119545_detail.jpg"
+  },
+  "item-45": {
+    "src": "assets/menu/item-45.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Cronier Red Wine",
+    "source_url": "https://wine.delivery/product/WD-275396-M99/Cronier-Cabernet-Sauvignon-Merlot",
+    "credit": "wine.delivery",
+    "original_url": "https://portal.wine.delivery/media/catalog/product/cache/image/1200x1200/beff4985b56e3afdbeabfc89641a4582/2/7/275397_cronier_cabernet_sauvignon_merlot_0722_2019_pp.png"
+  },
+  "item-46": {
+    "src": "assets/menu/item-46.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Cronier White Wine",
+    "source_url": "https://cronierwines.com/product/cronier-wines-natural-sweet-white/",
+    "credit": "cronierwines.com",
+    "original_url": "https://cronierwines.com/wp-content/uploads/2025/02/image-11.jpeg"
+  },
+  "item-47": {
+    "src": "assets/menu/item-47.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Drostdy Hof",
+    "source_url": "https://kilakitu.bi/drostdy-hof-claret-select-75cl-1",
+    "credit": "kilakitu.bi",
+    "original_url": "https://kilakitu.bi/image/product/2439/MEDIUM/0/6141"
+  },
+  "item-48": {
+    "src": "assets/menu/item-48.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Cellar Cask",
+    "source_url": "https://www.carrefour.ke/mafken/en/white/cellar-cask-jhb-red-wine-750ml/p/41570",
+    "credit": "carrefour.ke",
+    "original_url": "https://cdn.mafrservices.com/pim-content/KEN/media/product/41570/41570_main.jpg?im=Resize%3D480%3Fim%3DResize%3D%2860%2C60%29"
+  },
+  "item-49": {
+    "src": "assets/menu/item-49.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Nederburg Red",
+    "source_url": "https://www.vinopassione.com.br/por-tipo/tintos/vinho-nederburg-cabernet-sauvignon",
+    "credit": "vinopassione.com.br",
+    "original_url": "https://images.tcdn.com.br/img/img_prod/802298/vinho_nederburg_cabernet_sauvignon_1341_1_be03fc67ebefbe41ace2479d2d20d1ae.jpg"
+  },
+  "item-50": {
+    "src": "assets/menu/item-50.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Nederburg White",
+    "source_url": "https://www.pnp.co.za/nederburg-classic-sauvignon-blanc-750ml/p/000000000000905323_EA",
+    "credit": "pnp.co.za",
+    "original_url": "https://cdn-prd-02.pnp.co.za/sys-master/images/h1d/h85/11400503787550/silo-product-image-v2-10Apr2024-180203-6001108106957-Angle_A-219576-2442_400Wx400H"
+  },
+  "item-51": {
+    "src": "assets/menu/item-51.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Jam Jar",
+    "source_url": "https://chililiquor.com/wine/red-wine/syrahshiraz/jam-jar-sw-shiraz-750",
+    "credit": "chililiquor.com",
+    "original_url": "https://media.liquormax.com/vghbody1wjcrad1jnsfwy/22207-1.webp"
+  },
+  "item-52": {
+    "src": "assets/menu/item-52.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Four Cousins",
+    "source_url": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/four-cousins-smooth-dry-red-1-x-750-ml-/p/000000000000462259_EA",
+    "credit": "makro.co.za",
+    "original_url": "https://i5-images.massmart.co.za/asr/3de43ccf-5788-44db-9d89-5a8749d3ce23.8f0ff7a30a4cdfdc5e97e523bfd876a0.jpeg?odnBg=FFFFFF&odnHeight=636&odnWidth=694"
+  },
+  "item-53": {
+    "src": "assets/menu/item-53.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Fat Bastard White",
+    "source_url": "https://googro.co.za/products/fat-bastard-chardonnay-750ml",
+    "credit": "googro.co.za",
+    "original_url": "https://googro.co.za/cdn/shop/files/449_FATBASTARDCHARDONNAY750ml.png?v=1764714147&width=1500"
+  },
+  "item-54": {
+    "src": "assets/menu/item-54.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Fat Bastard Red",
+    "source_url": "https://checkdat.co.za/product/fat-bastard-shiraz-red-wine-bottle-750ml/",
+    "credit": "checkdat.co.za",
+    "original_url": "https://products-scrap-json.s3.us-east-2.amazonaws.com/data/project/imgfull/03b1ee255200321946cd342d18622b5baaf98bad.jpg"
+  },
+  "item-55": {
+    "src": "assets/menu/item-55.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Amarula",
+    "source_url": "https://www.thesavanna.co.uk/cdn/shop/files/December_2024_99_345x%402x.png?v=1735216288",
+    "credit": "thesavanna.co.uk",
+    "original_url": "https://www.thesavanna.co.uk/cdn/shop/files/December_2024_99_345x%402x.png?v=1735216288"
+  },
+  "item-56": {
+    "src": "assets/menu/item-56.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Optima",
+    "source_url": "https://www.drinkfinder.co.uk/cdn/shop/files/xxl_8702-optima.jpg?v=1753185448",
+    "credit": "drinkfinder.co.uk",
+    "original_url": "https://www.drinkfinder.co.uk/cdn/shop/files/xxl_8702-optima.jpg?v=1753185448"
+  },
+  "item-57": {
+    "src": "assets/menu/item-57.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Meerlust Rubicon",
+    "source_url": "https://northandsouthwines.co.uk/products/meerlust-rubicon",
+    "credit": "northandsouthwines.co.uk",
+    "original_url": "https://northandsouthwines.co.uk/cdn/shop/products/image_b4bc777e-9f05-4322-b5bb-1b1738040559.png?v=1613600014"
+  },
+  "item-58": {
+    "src": "assets/menu/item-58.webp",
+    "kind": "product",
+    "alt": "Photo illustrating The Chocolate Block",
+    "source_url": "https://www.thewinecollective.com.au/products/2023-boekenhoutskloof-the-chocolate-block",
+    "credit": "thewinecollective.com.au",
+    "original_url": "https://www.thewinecollective.com.au/cdn/shop/files/ITM574429-2023-boekenhoutskloof-the-chocolate-block.webp?v=1759795405&width=1100"
+  },
+  "item-59": {
+    "src": "assets/menu/item-59.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Veuve Rich",
+    "source_url": "https://24bottles.ng/product/veuve-clicquot-rich/",
+    "credit": "24bottles.ng",
+    "original_url": "https://24bottles.ng/wp-content/uploads/2022/05/5c-veuve-clicquot-rich-75cl.webp"
+  },
+  "item-60": {
+    "src": "assets/menu/item-60.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Moët",
+    "source_url": "https://www.aeliadutyfree.cz/prague/en/brut-imperial-58444.html",
+    "credit": "aeliadutyfree.cz",
+    "original_url": "https://www.aeliadutyfree.cz/media/catalog/product/3/1/3185370729960_1_6cf4.jpg?bg-color=255%2C255%2C255&fit=bounds&height=&quality=80&width="
+  },
+  "item-61": {
+    "src": "assets/menu/item-61.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Castle",
+    "source_url": "https://www.thesavanna.co.uk/cdn/shop/files/IMG-1280.png?v=1760546466",
+    "credit": "thesavanna.co.uk",
+    "original_url": "https://www.thesavanna.co.uk/cdn/shop/files/IMG-1280.png?v=1760546466"
+  },
+  "item-62": {
+    "src": "assets/menu/item-62.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Mosi",
+    "source_url": "https://lusakadelivery.com/cdn/shop/products/DSF0937.png?v=1620981399",
+    "credit": "lusakadelivery.com",
+    "original_url": "https://lusakadelivery.com/cdn/shop/products/DSF0937.png?v=1620981399"
+  },
+  "item-63": {
+    "src": "assets/menu/item-63.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Black Label",
+    "source_url": "https://www.pnp.co.za/c/beer702806072",
+    "credit": "pnp.co.za",
+    "original_url": "https://cdn-prd-02.pnp.co.za/sys-master/images/hed/hff/13937450319902/silo-product-image-v2-31Jul2025-180029-6003326015790-Straight_on-338693-281_400Wx400H"
+  },
+  "item-64": {
+    "src": "assets/menu/item-64.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Castle Lite",
+    "source_url": "https://mothercityliquor.co.za/products/castlelite340mlnrb",
+    "credit": "mothercityliquor.co.za",
+    "original_url": "https://mothercityliquor.co.za/cdn/shop/products/castlelight340mlreplacement-sw_545x545.jpg?v=1659961897"
+  },
+  "item-65": {
+    "src": "assets/menu/item-65.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Flying Fish",
+    "source_url": "https://www.pnp.co.za/flying-fish-pressed-lemon-beer-24-x-330ml/p/000000000000603401_CS",
+    "credit": "pnp.co.za",
+    "original_url": "https://cdn-prd-02.pnp.co.za/sys-master/images/h14/h0c/26651924234270/silo-product-image-v2-08Oct2025-180055-6003326009584-Straight_on-359274-598_400Wx400H"
+  },
+  "item-66": {
+    "src": "assets/menu/item-66.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Brutal Fruit",
+    "source_url": "https://www.pnp.co.za/brutal-fruit-ruby-apple-spritzer-24-x-500ml/p/000000000000778561_CS",
+    "credit": "pnp.co.za",
+    "original_url": "https://cdn-prd-02.pnp.co.za/sys-master/images/h69/h5f/27180398608414/silo-product-image-v2-18Oct2025-180025-6003326017473-Straight_on-363315-40_400Wx400H"
+  },
+  "item-67": {
+    "src": "assets/menu/item-67.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Windhoek Lager",
+    "source_url": "https://mothercityliquor.co.za/products/windhoeklager330ml-6pack",
+    "credit": "mothercityliquor.co.za",
+    "original_url": "https://mothercityliquor.co.za/cdn/shop/files/Untitleddesign_11_5966e7f5-e444-4a5a-8d4a-784580d1f012_700x700.jpg?v=1706531546"
+  },
+  "item-68": {
+    "src": "assets/menu/item-68.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Savanna",
+    "source_url": "https://shop.thebeermerchant.co.za/cdn/shop/files/savanna_1024x1024.jpg?v=1773225612",
+    "credit": "shop.thebeermerchant.co.za",
+    "original_url": "https://shop.thebeermerchant.co.za/cdn/shop/files/savanna_1024x1024.jpg?v=1773225612"
+  },
+  "item-69": {
+    "src": "assets/menu/item-69.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Heineken / Silver",
+    "source_url": "https://clickndrink.co.uk/heineken-24-x-330ml-nrb/",
+    "credit": "clickndrink.co.uk",
+    "original_url": "https://cdn11.bigcommerce.com/s-44lbg3lsgv/images/stencil/1280x1280/products/1930/13679/78b0133e-e607-4f12-a91b-325c6b2dcbe3__39672.1730466687.jpg?c=1"
+  },
+  "item-70": {
+    "src": "assets/menu/item-70.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Corona",
+    "source_url": "https://www.davidscellars.com/product-page/corona-extra-beer-bottles-355ml-4-5?srsltid=AfmBOopEawiL3C8D4XzX-kujJqE4V3gxzZRVsEp-u5myiAyVCIZCjqMq",
+    "credit": "davidscellars.com",
+    "original_url": "https://static.wixstatic.com/media/c54c09_f0933918dc3d4937a525739de8d9db51~mv2.png/v1/fill/w_480%2Ch_480%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/c54c09_f0933918dc3d4937a525739de8d9db51~mv2.png"
+  },
+  "item-71": {
+    "src": "assets/menu/item-71.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Stella",
+    "source_url": "https://www.igashop.com.au/product/stella-artois-bottle-6605448",
+    "credit": "igashop.com.au",
+    "original_url": "https://cdn.metcash.media/image/upload/w_1500%2Ch_1500%2Cc_pad%2Cb_auto/igashop/images/6605448.jpg"
+  },
+  "item-72": {
+    "src": "assets/menu/item-72.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Budweiser",
+    "source_url": "https://item.rakuten.co.jp/abinbev/bud330_btl_24/",
+    "credit": "item.rakuten.co.jp",
+    "original_url": "https://tshop.r10s.jp/abinbev/cabinet/item/bud330_btl_01.jpg?fitin=720%3A720"
+  },
+  "item-73": {
+    "src": "assets/menu/item-73.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Hunters Gold / Dry",
+    "source_url": "https://mothercityliquor.co.za/products/hunters-gold-660ml",
+    "credit": "mothercityliquor.co.za",
+    "original_url": "https://cdn.shopify.com/s/files/1/3026/9496/products/hunters-gold-660ml-case-cider-635_1200x1200.jpg?v=1593099854"
+  },
+  "item-74": {
+    "src": "assets/menu/item-74.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Water",
+    "source_url": "https://commons.wikimedia.org/wiki/File:A_glass_of_water.jpg",
+    "credit": "Susan Slater",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/A_glass_of_water.jpg/960px-A_glass_of_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "item-75": {
+    "src": "assets/menu/item-75.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Tea — Rooibos / Five Roses",
+    "source_url": "https://www.matemundo.co.uk/Rooibos-a-tea-like-no-other-What-is-it-and-what-makes-it-special-blog-eng-1746777650.html",
+    "credit": "matemundo.co.uk",
+    "original_url": "https://www.matemundo.co.uk/data/include/img/news/1746777650.jpg"
+  },
+  "item-76": {
+    "src": "assets/menu/item-76.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Ginger Tea",
+    "source_url": "https://community.theasianparent.com/recipe/salabat_filipino_ginger_tea_/3804",
+    "credit": "community.theasianparent.com",
+    "original_url": "https://static.cdntap.com/parenttown-prod/recipes/recipe/16080066339730.jpg?height=450&quality=90&width=800"
+  },
+  "item-77": {
+    "src": "assets/menu/item-77.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Lemon Tea",
+    "source_url": "https://nutrabay.com/magazine/web-stories/top-10-foods-with-healthy-fats-copy",
+    "credit": "nutrabay.com",
+    "original_url": "https://images.unsplash.com/photo-1615484477112-677decb29c57?fit=max&fm=jpg&h=4129&ixid=M3wxMzcxOTN8MHwxfHNlYXJjaHwzfHxsZW1vbiUyMHRlYXxlbnwwfHx8fDE2OTc2OTkzNjJ8MA&ixlib=rb-4.0.3&w=4129"
+  },
+  "item-78": {
+    "src": "assets/menu/item-78.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Instant Coffee",
+    "source_url": "https://unsplash.com/es/s/fotos/caf%C3%A9-negro",
+    "credit": "unsplash.com",
+    "original_url": "https://images.unsplash.com/photo-1611162458324-aae1eb4129a4?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNhZiVDMyVBOSUyMG5lZ3JvfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000"
+  },
+  "item-79": {
+    "src": "assets/menu/item-78.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Vitamix Coffee",
+    "source_url": "https://unsplash.com/es/s/fotos/caf%C3%A9-negro",
+    "credit": "unsplash.com",
+    "original_url": "https://images.unsplash.com/photo-1611162458324-aae1eb4129a4?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNhZiVDMyVBOSUyMG5lZ3JvfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000"
+  },
+  "item-80": {
+    "src": "assets/menu/item-80.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Fruticana",
+    "source_url": "https://www.pnp.co.za/frutica-orange-juice-430ml/p/000000000000815673_EA",
+    "credit": "pnp.co.za",
+    "original_url": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6a/h46/29164799787038/silo-product-image-v2-19Nov2025-180016-6009709823525-Straight_on-376886-557_515Wx515H"
+  },
+  "item-81": {
+    "src": "assets/menu/item-81.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Fanta / Sprite / Coca-Cola / Zero",
+    "source_url": "https://www.torbjorns-catering.no/produkt/brus-assortert-utvalg/",
+    "credit": "torbjorns-catering.no",
+    "original_url": "https://www.torbjorns-catering.no/wp-content/uploads/2019/01/Brus_assortert.jpg"
+  },
+  "item-82": {
+    "src": "assets/menu/item-82.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Tonic / Soda / Lemonade",
+    "source_url": "https://www.studioadfx.com/schweppes-dry-ginger-ale",
+    "credit": "studioadfx.com",
+    "original_url": "https://images.squarespace-cdn.com/content/v1/5c64b0dfebfc7f9c300c2414/1552190897762-I33O4T094DX97KEUZQZU/Schweppes_Classic_Bottles1.jpg?format=1000w"
+  },
+  "item-83": {
+    "src": "assets/menu/item-83.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Red Bull",
+    "source_url": "https://www.myamericanshop.be/products/red-bull-energy-drink-original",
+    "credit": "myamericanshop.be",
+    "original_url": "https://www.myamericanshop.be/cdn/shop/files/red-bull-energy-drink-original-90162602-1144822501.png?v=1741298347"
+  },
+  "item-84": {
+    "src": "assets/menu/item-84.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Belgravia",
+    "source_url": "https://www.deeliver.co.za/products/belgravia-london-dry-gin-750ml?srsltid=AfmBOopE-F7wDFRVWBnugJrwpll-JVcexv3xCTJ707ic5fCE5blhfKt0",
+    "credit": "deeliver.co.za",
+    "original_url": "https://www.deeliver.co.za/cdn/shop/files/belgravia-london-dry-gin-750ml.jpg?v=1742658342"
+  },
+  "item-85": {
+    "src": "assets/menu/item-85.webp",
+    "kind": "food",
+    "alt": "Photo illustrating Mocktail",
+    "source_url": "https://cdn.shopify.com/s/files/1/0697/9728/2057/files/cocktail_sans_alcool_nouvel_an_2_480x480.png?v=1734424084",
+    "credit": "cdn.shopify.com",
+    "original_url": "https://cdn.shopify.com/s/files/1/0697/9728/2057/files/cocktail_sans_alcool_nouvel_an_2_480x480.png?v=1734424084"
+  },
+  "item-86": {
+    "src": "assets/menu/item-86.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Shisha",
+    "source_url": "https://shopdop.in/cdn/shop/files/SilvertonHookah-Silver.jpg?v=1707299855",
+    "credit": "shopdop.in",
+    "original_url": "https://shopdop.in/cdn/shop/files/SilvertonHookah-Silver.jpg?v=1707299855"
+  },
+  "item-87": {
+    "src": "assets/menu/item-87.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Coal",
+    "source_url": "https://b2hookah.com/collections/blackcocos-charcoal",
+    "credit": "b2hookah.com",
+    "original_url": "https://b2hookah.com/cdn/shop/collections/Blackcocos-Charcoal-Cubes-26mm-1KG.webp?v=1770690913&width=1200"
+  },
+  "item-88": {
+    "src": "assets/menu/item-88.webp",
+    "kind": "product",
+    "alt": "Photo illustrating Rent a Throw",
+    "source_url": "https://luxusni-deky.cz/blog/jak-vybrat-potah-na-sedacku/",
+    "credit": "luxusni-deky.cz",
+    "original_url": "https://www.mkluzkoviny.cz/data/images/products/46518/5441-fleece_deka_seda.jpg"
+  }
+}
