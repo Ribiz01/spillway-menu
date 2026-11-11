@@ -1558,6 +1558,192 @@
     "tag": ""
   },
   {
+    "id": "item-116",
+    "name": "Blue Lagoon",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 120
+      },
+      {
+        "label": "Mocktail",
+        "amount": 80
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-117",
+    "name": "Long Island",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 170
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-118",
+    "name": "Margarita",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 150
+      },
+      {
+        "label": "Mocktail",
+        "amount": 80
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-119",
+    "name": "Mojito",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 120
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-120",
+    "name": "Passion Fruit",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 120
+      },
+      {
+        "label": "Mocktail",
+        "amount": 80
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-121",
+    "name": "Piña Colada",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 150
+      },
+      {
+        "label": "Mocktail",
+        "amount": 90
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-122",
+    "name": "Sex on the Beach",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 150
+      },
+      {
+        "label": "Mocktail",
+        "amount": 80
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-123",
+    "name": "Strawberry Daiquiri",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 100
+      },
+      {
+        "label": "Mocktail",
+        "amount": 80
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-124",
+    "name": "Tequila Sunrise",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 170
+      },
+      {
+        "label": "Mocktail",
+        "amount": 80
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-125",
+    "name": "Whiskey Sour",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Cocktail",
+        "amount": 120
+      },
+      {
+        "label": "Mocktail",
+        "amount": 80
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-126",
+    "name": "Malawi Shandy",
+    "group": "drinks",
+    "category": "cocktails",
+    "prices": [
+      {
+        "label": "Mocktail",
+        "amount": 120
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
     "id": "item-74",
     "name": "Water",
     "group": "drinks",

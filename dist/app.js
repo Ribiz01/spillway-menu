@@ -10,7 +10,7 @@
   const plainMoney = n => `K${amount(n)}`;
   const meta = {
     food:[{id:'grill',name:'On the grill',icon:'flame'},{id:'platters',name:'Sharing platters',icon:'people',virtual:true},{id:'fried',name:'Fried selection',icon:'cutlery'},{id:'pot',name:'In the pot',icon:'pot'},{id:'sides',name:'Sides',icon:'cup'},{id:'extras',name:'Extras',icon:'plus'}],
-    drinks:[{id:'spirits',name:'Spirits & liquor',icon:'bottle',note:'Choose your pour. Shot and bottle prices are shown separately.'},{id:'wines',name:'Wines',icon:'wine',note:'Wine prices are per bottle.'},{id:'sparkling',name:'Sparkling wines',icon:'wine',note:'Sparkling wine prices are per bottle.'},{id:'beers',name:'Beers, ciders & lagers',icon:'glass',note:'Bottle, can and dumpy prices are shown where available.'},{id:'mixers',name:'Mixers & cocktails',icon:'cup'},{id:'extras-drinks',name:'Shisha & extras',icon:'plus'}]
+    drinks:[{id:'spirits',name:'Spirits & liquor',icon:'bottle',note:'Choose your pour. Shot and bottle prices are shown separately.'},{id:'wines',name:'Wines',icon:'wine',note:'Wine prices are per bottle.'},{id:'sparkling',name:'Sparkling wines',icon:'wine',note:'Sparkling wine prices are per bottle.'},{id:'beers',name:'Beers, ciders & lagers',icon:'glass',note:'Bottle, can and dumpy prices are shown where available.'},{id:'cocktails',name:'Cocktails',icon:'glass',note:'Cocktail and mocktail prices are shown where both are available.'},{id:'mixers',name:'Mixers & soft drinks',icon:'cup'},{id:'extras-drinks',name:'Shisha & extras',icon:'plus'}]
   };
   const photos = {'item-2':'assets/wings.webp','item-4':'assets/fish.webp','item-6':'assets/grill-platter.webp','item-7':'assets/grill-platter.webp','item-8':'assets/grill-platter.webp'};
   const photoDetails = {};
