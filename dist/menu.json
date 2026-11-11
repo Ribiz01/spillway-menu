@@ -1628,20 +1628,6 @@
     "tag": ""
   },
   {
-    "id": "item-79",
-    "name": "Vitamix Coffee",
-    "group": "drinks",
-    "category": "mixers",
-    "prices": [
-      {
-        "label": "",
-        "amount": 150
-      }
-    ],
-    "description": "",
-    "tag": ""
-  },
-  {
     "id": "item-80",
     "name": "Fruticana",
     "group": "drinks",

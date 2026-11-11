@@ -77,7 +77,6 @@ All images are hosted locally in `dist/assets/menu`. The menu displays represent
 - Ginger Tea: [community.theasianparent.com](https://community.theasianparent.com/recipe/salabat_filipino_ginger_tea_/3804)
 - Lemon Tea: [nutrabay.com](https://nutrabay.com/magazine/web-stories/top-10-foods-with-healthy-fats-copy)
 - Instant Coffee: [unsplash.com](https://unsplash.com/es/s/fotos/caf%C3%A9-negro)
-- Vitamix Coffee: [unsplash.com](https://unsplash.com/es/s/fotos/caf%C3%A9-negro)
 - Fruticana: [pnp.co.za](https://www.pnp.co.za/frutica-orange-juice-430ml/p/000000000000815673_EA)
 - Fanta / Sprite / Coca-Cola / Zero: [torbjorns-catering.no](https://www.torbjorns-catering.no/produkt/brus-assortert-utvalg/)
 - Tonic / Soda / Lemonade: [studioadfx.com](https://www.studioadfx.com/schweppes-dry-ginger-ale)
