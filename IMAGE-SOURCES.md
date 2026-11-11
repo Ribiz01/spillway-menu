@@ -72,7 +72,7 @@ All images are hosted locally in `dist/assets/menu`. The menu displays represent
 - Stella: [igashop.com.au](https://www.igashop.com.au/product/stella-artois-bottle-6605448)
 - Budweiser: [item.rakuten.co.jp](https://item.rakuten.co.jp/abinbev/bud330_btl_24/)
 - Hunters Gold / Dry: [mothercityliquor.co.za](https://mothercityliquor.co.za/products/hunters-gold-660ml)
-- Water: [Susan Slater](https://commons.wikimedia.org/wiki/File:A_glass_of_water.jpg) — CC BY-SA 4.0
+- Water: Spillway Car Wash & Grill (own photo of the Spillway Premium Mineral Water bottle)
 - Tea — Rooibos / Five Roses: [matemundo.co.uk](https://www.matemundo.co.uk/Rooibos-a-tea-like-no-other-What-is-it-and-what-makes-it-special-blog-eng-1746777650.html)
 - Ginger Tea: [community.theasianparent.com](https://community.theasianparent.com/recipe/salabat_filipino_ginger_tea_/3804)
 - Lemon Tea: [nutrabay.com](https://nutrabay.com/magazine/web-stories/top-10-foods-with-healthy-fats-copy)
