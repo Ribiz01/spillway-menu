@@ -82,7 +82,6 @@ All images are hosted locally in `dist/assets/menu`. The menu displays represent
 - Schweppes Tonic / Soda / Lemonade: [africanhut.com](https://www.africanhut.com/products/schweppes-dry-lemon-300ml)
 - Red Bull: [myamericanshop.be](https://www.myamericanshop.be/products/red-bull-energy-drink-original)
 - Belgravia: [deeliver.co.za](https://www.deeliver.co.za/products/belgravia-london-dry-gin-750ml?srsltid=AfmBOopE-F7wDFRVWBnugJrwpll-JVcexv3xCTJ707ic5fCE5blhfKt0)
-- Mocktail: [cdn.shopify.com](https://cdn.shopify.com/s/files/1/0697/9728/2057/files/cocktail_sans_alcool_nouvel_an_2_480x480.png?v=1734424084)
 - Shisha: [shopdop.in](https://shopdop.in/cdn/shop/files/SilvertonHookah-Silver.jpg?v=1707299855)
 - Coal: [b2hookah.com](https://b2hookah.com/collections/blackcocos-charcoal)
 - Rent a Throw: [luxusni-deky.cz](https://luxusni-deky.cz/blog/jak-vybrat-potah-na-sedacku/)
