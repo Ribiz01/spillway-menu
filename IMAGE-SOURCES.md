@@ -114,3 +114,17 @@ All images are hosted locally in `dist/assets/menu`. The menu displays represent
 - Skol: [caribbrewery.com](https://caribbrewery.com/alco/skol/)
 - Heineken Zero: [ubereats.com](https://www.ubereats.com/product/b/b47e630d-859d-588a-ac30-acee120cd56a)
 - Minute Maid: [hypa.africa](https://www.hypa.africa/products/beverages/minute-maid-mango-juice-400ml-6a2915999f7c2387d9a87826/)
+
+## Cocktails
+
+- Blue Lagoon: [vintageamericancocktails.com](https://vintageamericancocktails.com/blue-lagoon-cocktail-recipe/)
+- Long Island: [supergoldenbakes.com](https://www.supergoldenbakes.com/long-island-iced-tea/)
+- Margarita: [bols.com](https://bols.com/products/classic-margarita)
+- Mojito: [cookieandkate.com](https://cookieandkate.com/classic-mojito-recipe/)
+- Passion Fruit: [crowdedkitchen.com](https://www.crowdedkitchen.com/passion-fruit-martini/)
+- Piña Colada: [liquor.com](https://www.liquor.com/recipes/pina-colada/)
+- Sex on the Beach: [preppykitchen.co.uk](https://preppykitchen.co.uk/sex-on-the-beach/)
+- Strawberry Daiquiri: [shakedrinkrepeat.com](https://www.shakedrinkrepeat.com/strawberry-daiquiri/)
+- Tequila Sunrise: [dudethatcookz.com](https://dudethatcookz.com/tequila-sunrise-cocktail/)
+- Whiskey Sour: [bonappetit.com](https://www.bonappetit.com/recipe/whiskey-sour)
+- Malawi Shandy: [dontmissmyplate.com](https://www.dontmissmyplate.com/how-to-make-drinks/2026/8/13/malawi-shandy-recipe)

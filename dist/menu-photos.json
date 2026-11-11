@@ -877,5 +877,93 @@
   "source_url": "https://www.hypa.africa/products/beverages/minute-maid-mango-juice-400ml-6a2915999f7c2387d9a87826/",
   "credit": "hypa.africa",
   "original_url": "https://wave-grocery.s3.eu-central-1.amazonaws.com/hypaafrica/products/mTjCBQKdu91CaRnkW1GnwRXPN1KQSAJQHYMn6H1NTn0."
+ },
+ "item-116": {
+  "src": "assets/menu/item-116.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Blue Lagoon",
+  "source_url": "https://vintageamericancocktails.com/blue-lagoon-cocktail-recipe/",
+  "credit": "vintageamericancocktails.com",
+  "original_url": "https://vintageamericancocktails.com/wp-content/uploads/2022/04/blue_lagoon.jpg"
+ },
+ "item-117": {
+  "src": "assets/menu/item-117.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Long Island",
+  "source_url": "https://www.supergoldenbakes.com/long-island-iced-tea/",
+  "credit": "supergoldenbakes.com",
+  "original_url": "https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2019/07/Long_island_iced_tea-1-4s.jpg"
+ },
+ "item-118": {
+  "src": "assets/menu/item-118.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Margarita",
+  "source_url": "https://bols.com/products/classic-margarita",
+  "credit": "bols.com",
+  "original_url": "https://bols.com/cdn/shop/files/Margarita-Cocktail-Bols-Triple-Sec-Liqueur.jpg?v=1779115784&width=1200"
+ },
+ "item-119": {
+  "src": "assets/menu/item-119.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Mojito",
+  "source_url": "https://cookieandkate.com/classic-mojito-recipe/",
+  "credit": "cookieandkate.com",
+  "original_url": "https://cookieandkate.com/images/2020/08/best-mojito-recipe-2.jpg"
+ },
+ "item-120": {
+  "src": "assets/menu/item-120.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Passion Fruit",
+  "source_url": "https://www.crowdedkitchen.com/passion-fruit-martini/",
+  "credit": "crowdedkitchen.com",
+  "original_url": "https://www.crowdedkitchen.com/wp-content/uploads/2021/01/passion-fruit-martini-11.jpg"
+ },
+ "item-121": {
+  "src": "assets/menu/item-121.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Piña Colada",
+  "source_url": "https://www.liquor.com/recipes/pina-colada/",
+  "credit": "liquor.com",
+  "original_url": "https://www.liquor.com/thmb/xcDUOpwXWVnbOfTvJ0uHWElVawE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__02__13090826__pina-colada-720x720-recipe-253f1752769447f6998afd2b9469c24e.jpg"
+ },
+ "item-122": {
+  "src": "assets/menu/item-122.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Sex on the Beach",
+  "source_url": "https://preppykitchen.co.uk/sex-on-the-beach/",
+  "credit": "preppykitchen.co.uk",
+  "original_url": "https://preppykitchen.co.uk/wp-content/uploads/2024/07/Sex-on-the-Beach-Feature.jpg"
+ },
+ "item-123": {
+  "src": "assets/menu/item-123.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Strawberry Daiquiri",
+  "source_url": "https://www.shakedrinkrepeat.com/strawberry-daiquiri/",
+  "credit": "shakedrinkrepeat.com",
+  "original_url": "https://www.shakedrinkrepeat.com/wp-content/uploads/2021/05/strawberry-daiquiri-2.jpg"
+ },
+ "item-124": {
+  "src": "assets/menu/item-124.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Tequila Sunrise",
+  "source_url": "https://dudethatcookz.com/tequila-sunrise-cocktail/",
+  "credit": "dudethatcookz.com",
+  "original_url": "https://dudethatcookz.com/wp-content/uploads/2025/01/tequila_sunrise_9.jpg.webp"
+ },
+ "item-125": {
+  "src": "assets/menu/item-125.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Whiskey Sour",
+  "source_url": "https://www.bonappetit.com/recipe/whiskey-sour",
+  "credit": "bonappetit.com",
+  "original_url": "https://assets.bonappetit.com/photos/63a4b2aba1a7b40ea0bebd03/1:1/w_1200%2Cc_limit/WhiskeySour.jpeg"
+ },
+ "item-126": {
+  "src": "assets/menu/item-126.webp",
+  "kind": "food",
+  "alt": "Photo illustrating Malawi Shandy",
+  "source_url": "https://www.dontmissmyplate.com/how-to-make-drinks/2026/8/13/malawi-shandy-recipe",
+  "credit": "dontmissmyplate.com",
+  "original_url": "https://static1.squarespace.com/static/5ba85f7c9b8fe84261a1e41c/60ef1adcdf7cd01ea0343d6e/6a7de064061672093aea2817/1786639233471/20260531_195317.jpg?format=1500w"
  }
 }
