@@ -704,6 +704,304 @@
     "tag": ""
   },
   {
+    "id": "item-89",
+    "name": "Hennessy V.S.O.P",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 150
+      },
+      {
+        "label": "Bottle",
+        "amount": 3100
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-90",
+    "name": "Don Julio",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 3450
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-91",
+    "name": "Cîroc",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 1800
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-92",
+    "name": "Grant’s Smoky",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 80
+      },
+      {
+        "label": "Bottle",
+        "amount": 1500
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-93",
+    "name": "Glenfiddich 12 Years",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 135
+      },
+      {
+        "label": "Bottle",
+        "amount": 2300
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-94",
+    "name": "The Famous Grouse",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 55
+      },
+      {
+        "label": "Bottle",
+        "amount": 750
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-95",
+    "name": "Chivas Regal 18 Years",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 180
+      },
+      {
+        "label": "Bottle",
+        "amount": 3450
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-96",
+    "name": "Chivas Regal 12 Years",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 65
+      },
+      {
+        "label": "Bottle",
+        "amount": 1480
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-97",
+    "name": "Southern Comfort Original",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 45
+      },
+      {
+        "label": "Bottle",
+        "amount": 750
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-98",
+    "name": "Klipdrift",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 50
+      },
+      {
+        "label": "Bottle",
+        "amount": 800
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-99",
+    "name": "Malibu",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 50
+      },
+      {
+        "label": "Bottle",
+        "amount": 800
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-100",
+    "name": "KWV 10 Years",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 70
+      },
+      {
+        "label": "Bottle",
+        "amount": 900
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-101",
+    "name": "KWV 5 Years",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 60
+      },
+      {
+        "label": "Bottle",
+        "amount": 750
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-102",
+    "name": "KWV 3 Years",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 50
+      },
+      {
+        "label": "Bottle",
+        "amount": 600
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-103",
+    "name": "Glenmorangie 12 Years",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 150
+      },
+      {
+        "label": "Bottle",
+        "amount": 2200
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-104",
+    "name": "Tanqueray",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 65
+      },
+      {
+        "label": "Bottle",
+        "amount": 1000
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-105",
+    "name": "Old Buck Gin",
+    "group": "drinks",
+    "category": "spirits",
+    "prices": [
+      {
+        "label": "Shot",
+        "amount": 50
+      },
+      {
+        "label": "Bottle",
+        "amount": 600
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
     "id": "item-45",
     "name": "Cronier Red Wine",
     "group": "drinks",
@@ -900,6 +1198,48 @@
     "tag": ""
   },
   {
+    "id": "item-106",
+    "name": "La Motte Sauvignon Blanc",
+    "group": "drinks",
+    "category": "wines",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 650
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-107",
+    "name": "La Motte Merlot",
+    "group": "drinks",
+    "category": "wines",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 650
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-108",
+    "name": "Rupert & Rothschild",
+    "group": "drinks",
+    "category": "wines",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 950
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
     "id": "item-59",
     "name": "Veuve Rich",
     "group": "drinks",
@@ -915,13 +1255,55 @@
   },
   {
     "id": "item-60",
-    "name": "Moët",
+    "name": "Moët & Chandon",
     "group": "drinks",
     "category": "sparkling",
     "prices": [
       {
         "label": "Bottle",
         "amount": 3000
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-109",
+    "name": "J.C. Le Roux La Fleurette",
+    "group": "drinks",
+    "category": "sparkling",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 500
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-110",
+    "name": "J.C. Le Roux La Chanson",
+    "group": "drinks",
+    "category": "sparkling",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 500
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-111",
+    "name": "Mimosa",
+    "group": "drinks",
+    "category": "sparkling",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 400
       }
     ],
     "description": "",
@@ -1134,6 +1516,48 @@
     "tag": ""
   },
   {
+    "id": "item-112",
+    "name": "Mosi Lite",
+    "group": "drinks",
+    "category": "beers",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 25
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-113",
+    "name": "Skol",
+    "group": "drinks",
+    "category": "beers",
+    "prices": [
+      {
+        "label": "Bottle",
+        "amount": 35
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
+    "id": "item-114",
+    "name": "Heineken Zero",
+    "group": "drinks",
+    "category": "beers",
+    "prices": [
+      {
+        "label": "Dumpy",
+        "amount": 50
+      }
+    ],
+    "description": "",
+    "tag": ""
+  },
+  {
     "id": "item-74",
     "name": "Water",
     "group": "drinks",
@@ -1247,13 +1671,13 @@
   },
   {
     "id": "item-82",
-    "name": "Tonic / Soda / Lemonade",
+    "name": "Schweppes Tonic / Soda / Lemonade",
     "group": "drinks",
     "category": "mixers",
     "prices": [
       {
         "label": "",
-        "amount": 25
+        "amount": 35
       }
     ],
     "description": "",
@@ -1299,6 +1723,20 @@
       }
     ],
     "description": "Make your own cocktail base.",
+    "tag": ""
+  },
+  {
+    "id": "item-115",
+    "name": "Minute Maid",
+    "group": "drinks",
+    "category": "mixers",
+    "prices": [
+      {
+        "label": "",
+        "amount": 25
+      }
+    ],
+    "description": "",
     "tag": ""
   },
   {
